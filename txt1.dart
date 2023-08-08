@@ -1,4 +1,4 @@
 void main() {
-  String mensagem = "Tempos difíceis geram pessoas fortes";
+  String mensagem = "Você só vence amanhã se não desistir hoje";
   print(mensagem);
 }
